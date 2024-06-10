@@ -1,0 +1,7 @@
+async-lru
+dnspython
+pyaes
+pymongo
+Pyrogram
+PySocks
+TgCrypto

@@ -1,0 +1,14 @@
+
+
+# Virtual environment
+venv
+
+# Test/Experiment Folder
+testexp
+
+# Session File
+RequestTrackerBot.session
+
+# Cache File
+__pycache__
+

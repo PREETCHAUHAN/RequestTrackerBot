@@ -1,0 +1,41 @@
+{
+    "name": "RequestTrackerBot",
+    "description": "A bot for tracking user requests in groups.",
+    "keywords": [
+        "telegram",
+        "bot",
+        "heroku",
+        "python",
+        "pyrogram",
+        "request",
+        "#request",
+        "tracker"
+    ],
+    "repository": "https://github.com/PREETCHAUHAN/RequestTrackerBot",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Get from https://t.me/BotFather"
+        },
+        "API_ID": {
+            "description": "Get from https://my.telegram.org"
+        },
+        "API_HASH": {
+            "description": "Get from https://my.telegram.org"
+        },
+        "MONGO_STR": {
+            "description": "Get from MongoDB Atlas"
+        }
+    },
+    "stack": "heroku-22",
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "eco"
+        }
+    }
+}
