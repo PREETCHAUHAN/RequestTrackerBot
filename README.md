@@ -13,7 +13,7 @@ This is a Request Tracker Bot repo, It is for those who upload content like movi
 The owner of this bot is [☘️DJや๖ۣۜℜEET](https://t.me/djpreetXBot), His Telegram [Channel](http://t.me/preetmodz) & [Group](http://t.me/MrBot02).
 Don't Forget to give a Star.
 
-## Some ScreenShots
+## Some Screenshots
 These ScreenShots might help you to understand this bot well
 
 ADDED SOON WHEN BOT WORKS !!!
